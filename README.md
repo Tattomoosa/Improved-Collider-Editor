@@ -37,6 +37,13 @@ so that the other side remains in place).
 Clicking and dragging the cube handle manipulates the scale of the collider upon that axis, manipulating
 both sides of the collider at the same time.
 
+### Radius Manipulation Handles
+
+These handles control the radius of either a CapsuleCollider or a SphereCollider.
+While inactive, they appear as white buttons surrounded by grey squares.
+While active, these are replaced by a sphere handle.
+Clicking and dragging this handle manipulates the radius of the collider.
+
 ## Changing the Location of This Asset's Files
 
 If you wish to change the folder structure, note that all of these scripts must be inside a folder named 'Editor' inside
@@ -49,3 +56,7 @@ This asset currently only supports 3D colliders.
 ## Support
 
 Email support@mattotousa.com with any questions. Bug reports or feature requests can go right here on this GitHub repository.
+
+## Thanks
+
+Thanks for checking out the Improved Collider Editor. I hope you have a fantastic day.
