@@ -5,7 +5,7 @@ An asset package for Unity that allows for better manipulation of colliders on G
 ## Getting Started
 
 This repository only stores the documentation for the Improved Collider Editor.
-The asset itself must be [purchased on the Unity Asset Store here](TODO ADD LINK).
+The asset itself must be [purchased on the Unity Asset Store here](https://assetstore.unity.com/packages/tools/utilities/improved-collider-editor-128436).
 
 Then import it into your project and all of your collider's editors will be updated automatically.
 
